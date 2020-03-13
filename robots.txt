@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eereechee.junhao.pw/sitemap.xml
